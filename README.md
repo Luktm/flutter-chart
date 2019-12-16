@@ -1,4 +1,4 @@
-# udemy_flutter
+# chart_flutter
 
 A new Flutter project.
 
